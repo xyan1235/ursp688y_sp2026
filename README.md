@@ -322,6 +322,8 @@ This course is inspired by numerous other courses and colleagues, especially:
 
 ### February 12 (Week 3)
 
+***IN PERSON***
+
 - Tabular Analysis
   - Table structure
     - Tidy data
@@ -367,6 +369,8 @@ This course is inspired by numerous other courses and colleagues, especially:
 
 ### March 12 (Week 7)
 
+***IN PERSON***
+
 - Geospatial data
   - Points, linestrings, and polygons
   - Coordinate systems
@@ -393,6 +397,8 @@ This course is inspired by numerous other courses and colleagues, especially:
   - Pereira, R. H. M. (2019). Future accessibility impacts of transport policy scenarios: Equity and sensitivity to travel time thresholds for Bus Rapid Transit expansion in Rio de Janeiro. _Journal of Transport Geography_, _74_, 321–332. <https://doi.org/10.1016/j.jtrangeo.2018.12.005>
 
 ### April 9 (Week 10)
+
+***IN PERSON***
 
 - Spatial visualization
   - Map design fundamentals
@@ -424,6 +430,8 @@ This course is inspired by numerous other courses and colleagues, especially:
   - Goodspeed, R. (2022). Leveraging the promise of smart cities to advance smart growth. In _Handbook on Smart Growth_ (pp. 307–322). Edward Elgar Publishing. <https://www.elgaronline.com/edcollchap/book/9781789904697/book-part-9781789904697-31.xml>
 
 ### May 7 (Week 14)
+
+***IN PERSON***
 
 - Final project presentations
 
